@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working on **WEX Inc.** as a Software Engineer
 
-- 🌱 I am studying for a master's degree in Distributed Systems
+- 🌱 I am pursuing a master's degree in Computer Science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
