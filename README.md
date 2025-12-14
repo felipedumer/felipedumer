@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Felipe Dumer</h1>
+<h1 align="center">Hi 👋, I'm Felipe Dummer</h1>
 
-- 🔭 I am currently working on **WEX Inc.** as a Software Engineer
+- 🔭 I am currently working on **WEX Inc.** as a Specialist Software Engineer
 
 - 🌱 I am pursuing a master's degree in Computer Science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/felipedumer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-ferreira-dumer-34ab61171" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felipedummer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-ferreira-dumer-34ab61171" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
